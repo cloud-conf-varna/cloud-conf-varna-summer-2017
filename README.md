@@ -11,6 +11,6 @@
 - 15:30 - Coffee Break (Networking на по чаша кафе с любезното съдействие на ICN)
 - 16:00 - Отворена дискусия, Модератор: Николай Митев
 
-За повече информация: http://cloudconf.azurewebsites.net/
+За повече информация: http://www.cloudconfvarna.com
  
 За пореден път спонсор на събитието е ICN.BG
